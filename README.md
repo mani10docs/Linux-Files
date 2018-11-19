@@ -33,3 +33,26 @@ wget http://mirrors.wuchna.com/apachemirror/maven/maven-3/3.6.0/binaries/apache-
    17  ll
    18  ll
    19  tar -xzvf jdk-8u131-linux-x64.tar.gz
+   
+   rm -rf jdk-8u131-linux-x64.tar.gz
+   23  ll
+   24  ll jdk1.8.0_131/
+   25  ll
+   26  ll
+   27  mv jdk1.8.0_131/ java8
+   28  ll
+   29  cd java8/
+   30  pwd
+   31  java -v
+   32  export JAVA_HOME=/vagrant/workspace/batch14/java8
+   33  export PATH=$JAVA_HOME/bin:$PATH
+   34  java -v
+   35  java -v
+   36  java -version
+   37  java
+   38  java --help
+   39  java -help
+   40  java -version
+   41  which java
+   42  which cp
+
