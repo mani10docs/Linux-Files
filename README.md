@@ -11,7 +11,7 @@ Root Password: adminuser
 
 -----------------------------------------------------------------------------------------
 
-Download RPM file:   https://java.com/en/download/linux_manual.jsp
+Download RPM file:   https://drive.google.com/open?id=17UggD22pigFo275ahej_MVxDcPpVSdy0
 
 
 Download JDK:
